@@ -98,11 +98,9 @@ We welcome collaborations with:
 
 
 <div align="center">
-
+  
 **© 2024 Feiyu Technology. All rights reserved.**
-
-[Privacy Policy](https://feiyutech.com/privacy) | [Terms of Service](https://feiyutech.com/terms) | [Cookie Policy](https://feiyutech.com/cookies)
-
+  
 *Innovating for a smarter, more efficient tomorrow.*
 
 </div>
